@@ -9,6 +9,10 @@
 
 - HTML, CSS
 
+## Dependencies
+
+- Lighthouse, Stylelint, and Webhint (local html&css lint solutions)
+
 
 ## Authors
 
